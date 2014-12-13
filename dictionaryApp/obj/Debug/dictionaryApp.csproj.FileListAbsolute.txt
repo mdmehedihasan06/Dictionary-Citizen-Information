@@ -1,0 +1,9 @@
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\bin\Debug\dictionaryApp.exe.config
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\obj\Debug\dictionaryApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\obj\Debug\dictionaryApp.citizenInfoUI.resources
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\obj\Debug\dictionaryApp.Properties.Resources.resources
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\obj\Debug\dictionaryApp.csproj.GenerateResource.Cache
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\bin\Debug\dictionaryApp.exe
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\bin\Debug\dictionaryApp.pdb
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\obj\Debug\dictionaryApp.exe
+E:\Visual Studio Work\dictionaryApp\dictionaryApp\obj\Debug\dictionaryApp.pdb
